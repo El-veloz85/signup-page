@@ -4,7 +4,7 @@ console.log("Welcome to " + clubName);
 function sayHi() {
   console.log("Hi! Thanks for visiting.");
 }
-sayHI();
+sayHi();
 let meetingDay = "Thursday at 5 PM";
 console.log("The next meeting is on " + meetingDay);
 
