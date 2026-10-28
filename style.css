@@ -16,3 +16,8 @@ h2 {
   color: #9b4a2f;
   margin-top: 20px;
 }
+.box {
+  margin: 40px 0;
+  border: 3px dash darkgreen;
+  padding: 60px;
+}
