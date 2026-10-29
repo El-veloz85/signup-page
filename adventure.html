@@ -18,12 +18,44 @@
     </nav>
 
     <main>
-      <section id="about">
-        <h2 class="box">About</h2>
+      <!-- Section 1 -->
+      <!-- id="about" lets the "About" nav link jump here.
+           class="box" gives it the box style from style.css. -->
+
+      <section id="about" class="box">
+        <h2>About</h2>
         <p>
           Welcome to Adventure Book Club! We read one Adventure book each month
           and meet to share our thoughts, enjoy snacks, and make friends.
         </p>
+      </section>
+      <!-- dAY 3: Flexbox Card row -->
+      <section id="reasons">
+        <h2>Three Reasons to Join</h2>
+        <div class="cards">
+          <!-- Card 1  -->
+
+          <div class="card">…</div>
+          <h3>Discover new adventures</h3>
+          <p>Jump into new adventures and worlds with each new book!</p>
+
+          <div class="card">…</div>
+          <h3>Snacks BYOS</h3>
+          <p>Bring your favorite snack to share with the group!</p>
+          <div class="card">…</div>
+          <h3>Make new friends</h3>
+          <p>Connect with like-minded readers and build lasting friendships!</p>
+        </div>
+      </section>
+      <!-- this section is  show the difference between inline and block elements-->
+      <section id="how-built" class="compare">
+        <h2>How the site is built</h2>
+        <div>This div is a block level element.</div>
+        <p>
+          This is a paragraph and a block element with a
+          <span> span tag</span> and a <a href="#join">link</a>
+        </p>
+        <p>Block element start on a new line and take up a whole width.</p>
       </section>
 
       <section id="schedule">
