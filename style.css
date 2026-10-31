@@ -34,4 +34,21 @@ h2 {
 }
 
 .compare {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.compare-item {
+  flex: 1 1 200px;
+  border: 2px solid darkgreen;
+  padding: 16px;
+}
+
+.field {
+  margin-bottom: 16px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
