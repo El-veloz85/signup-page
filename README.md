@@ -28,7 +28,7 @@ Live site: https://github.com/El-veloz85/signup-page.git
 | 8   | Add styles.                           | Added CSS            | main   |
 | 9   | Fixed linked css                      | Linked Css           | main   |
 | 10  | add box on about me section           | updated about me     | main   |
-| 11  | Add first JavaScrip                   | Added js file        | main   |
+| 11  | Add first JavaScript                  | Added js file        | main   |
 | 11  | add live site to README               | Live site on readme  | main   |
 | 12  | Update ACP log                        | Update ACP Readme    | main   |
 | 13  | Correction to Link                    | Update ACP Readme    | main   |
