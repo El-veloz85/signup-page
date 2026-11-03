@@ -4,7 +4,7 @@ Week2Day1
 
 # Adventure-BookClub
 
-Live site: https://github.com/El-veloz85/signup-page.git
+Live site: [https://github.com/El-veloz85/signup-page.git](https://El-veloz85.github.io/signup-page/)
 
 ## My setup
 
