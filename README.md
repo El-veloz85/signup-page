@@ -31,4 +31,7 @@ Live site: [https://github.com/El-veloz85/signup-page.git](https://El-veloz85.gi
 | 11  | Add first JavaScript                  | Added js file        | main   |
 | 11  | add live site to README               | Live site on readme  | main   |
 | 12  | Update ACP log                        | Update ACP Readme    | main   |
-| 13  | Correction to Link                    | Update ACP Readme    | main   |
+| 13  | layout form with flexbox              | css edit             | main   |
+| 13  | update change                         | index update         | main   |
+| 13  | update live site link in readme.md    | css edit             | main   |
+| 13  | file name change                      | corrected index name | main   |
